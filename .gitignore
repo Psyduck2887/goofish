@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.local
+
+auth/
+data/
+others/
+others-*.png
+playwright-report/
